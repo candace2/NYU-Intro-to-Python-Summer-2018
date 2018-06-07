@@ -1,5 +1,5 @@
-# Jess Garson
-I am a developer that just moved from Washington, DC. My interests include making crazy projects with code, planning hackathons, punk rock, and teaching others how to code.
+# Candace
+This is interesting
 
 ## Motivation for Being Part of the Class
 I'm always looking to become a better developer and teaching is one of the best ways to do that.
